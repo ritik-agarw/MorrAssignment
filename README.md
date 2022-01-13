@@ -4,7 +4,7 @@
 link for the build/app:-https://drive.google.com/file/d/1DsPlliEcs2bdZA5QvreQiHQMt1EoSM40/view?usp=sharing
 
 
-github link:- https://github.com/Amandsharma0002/creditcardinfochecker/tree/master
+github link:- https://github.com/ritikagarw/MorrAssignment/tree/master
 
 
 Create an Android "screen" that would allow a user to enter and submit the following data from an American Express, Discover, MasterCard, or Visa credit card:
