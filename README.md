@@ -1,7 +1,7 @@
-# creditcardinfochecker
+# Credit card validator
 
 
-link for the build/app:-https://drive.google.com/file/d/1HXRWJgJ_-tZvuGUUYwEiGKoidynM9JGQ/view?usp=sharing
+link for the build/app:-https://drive.google.com/file/d/1DsPlliEcs2bdZA5QvreQiHQMt1EoSM40/view?usp=sharing
 
 
 github link:- https://github.com/Amandsharma0002/creditcardinfochecker/tree/master
